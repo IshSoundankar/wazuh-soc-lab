@@ -78,15 +78,6 @@ wazuh-soc-lab/
 
 ---
 
-## Screenshots
-
-> Add your screenshots to the `screenshots/` folder:
-> - `agents-active.png` — All agents showing Active in dashboard
-> - `fim-events.png` — FIM events in Integrity Monitoring tab
-> - `virustotal-alerts.png` — VirusTotal malware detection alerts
-
----
-
 ## Author
 
 **Ish** — MEng Cybersecurity, University of Limerick  
