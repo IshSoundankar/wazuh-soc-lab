@@ -1,0 +1,17 @@
+# Ignore sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Ignore config files with real API keys
+# (Use the templates in configs/ instead)
+local-ossec.conf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshots (add your own)
+screenshots/*.png
+screenshots/*.jpg
